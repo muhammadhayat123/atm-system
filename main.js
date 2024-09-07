@@ -43,3 +43,5 @@ if (pinAnswer.pin === myPin) {
 else {
     console.log("Incorrect pin.");
 }
+
+console.log('hello');
